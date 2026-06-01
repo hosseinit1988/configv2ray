@@ -211,7 +211,6 @@ const BARRY_FAR_URLS = [
 ## 📞 ارتباط
 
 - **پشتیبانی و گزارش باگ**: [Issues](https://github.com/your-username/v2ray-config-hub/issues)
-- **ایمیل پروژه**: v2rayhub@example.com
 
 ---
 
