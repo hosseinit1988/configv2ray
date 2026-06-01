@@ -9,10 +9,10 @@
 > با قابلیت فیلتر رنگی، نمایش QR کد و بارگذاری تدریجی هوشمند
 
 <p align="center">
-  <img src="https://img.shields.io/badge/تعداد_کانفیگ‌ها-10٬000+-brightgreen" alt="Config Count">
-  <img src="https://img.shields.io/badge/پشتیبانی_از-۴_پروتکل_اصلی-39B1D1" alt="Protocols">
-  <img src="https://img.shields.io/badge/تم-روشن_/_تاریک-9b59b6" alt="Theme">
-  <img src="https://img.shields.io/badge/رابط_کاربری-واکنش‌گرا-00bcb4" alt="Responsive">
+  <img src="https://img.shields.io/badge/Configs-10K+-brightgreen" alt="Config Count">
+  <img src="https://img.shields.io/badge/Protocols-4_Main-39B1D1" alt="Protocols">
+  <img src="https://img.shields.io/badge/Theme-Light_/_Dark-9b59b6" alt="Theme">
+  <img src="https://img.shields.io/badge/UI-Responsive-00bcb4" alt="Responsive">
 </p>
 
 ---
